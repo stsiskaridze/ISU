@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="198.702mm"
+   height="106.362mm"
+   viewBox="0 0 198.702 106.362"
+   version="1.1"
+   id="svg5673"
+   sodipodi:docname="L8_Normal3.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs5667" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="382.24036"
+     inkscape:cy="204.52432"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g6568"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5670">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-190.638)">
+    <g
+       id="g6568"
+       transform="matrix(0.26458333,0,0,0.26458333,0.26449835,190.90233)">
+      <g
+         style="stroke:#c8dcff;stroke-width:0.5"
+         id="yMinorGrid" />
+      <g
+         style="stroke:#c8dcff;stroke-width:1"
+         id="yMajorGrid" />
+      <g
+         style="stroke:#c8dcff;stroke-width:0.5"
+         id="xMinorGrid" />
+      <g
+         style="stroke:#c8dcff;stroke-width:1"
+         id="xMajorGrid" />
+      <g
+         clip-path="url(#plot_window)"
+         id="plotPoints" />
+      <g
+         id="plotXValues" />
+      <g
+         id="plotYValues" />
+      <rect
+         style="fill:#ffffff;stroke:#778899;stroke-width:2"
+         x="-0.4998394"
+         y="1.6044922e-05"
+         width="750"
+         height="400"
+         id="rect3503" />
+      <rect
+         style="fill:#ffffff;stroke:#778899;stroke-width:2"
+         x="83.700157"
+         y="58.000015"
+         width="452"
+         height="283"
+         id="rect3506" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="83.700157"
+         y1="58.000015"
+         x2="83.700157"
+         y2="341.00003"
+         id="line3515" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="78.700157"
+         y1="341.00003"
+         x2="535.7002"
+         y2="341.00003"
+         id="line3518" />
+      <line
+         style="stroke:#000000;stroke-width:1"
+         x1="78.700157"
+         y1="341.00003"
+         x2="535.7002"
+         y2="341.00003"
+         id="line3520" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 81.700161,334.60003 h 2 m -2,-6.5 h 2 m -2,-6.4 h 2 m -2,-6.5 h 2 m -2,-12.9 h 2 m -2,-6.4 h 2 m -2,-6.5 h 2 m -2,-6.4 h 2 m -2,-12.9 h 2 m -2,-6.5 h 2 m -2,-6.4 h 2 m -2,-6.5 h 2 m -2,-12.9 h 2 m -2,-6.4 h 2 m -2,-6.5 h 2 m -2,-6.4 h 2 m -2,-12.9 h 2 m -2,-6.5 h 2 m -2,-6.4 h 2 m -2,-6.5 h 2 m -2,-12.9 h 2 m -2,-6.4 h 2 m -2,-6.5 h 2 m -2,-6.4 h 2 m -2,-12.9 h 2 m -2,-6.5 h 2 m -2,-6.4 h 2 m -2,-6.5 h 2 m -2,-12.9 h 2 m -2,-6.4 h 2 m -2,-6.46 h 2 m -2,-6.45 h 2 m -2,-12.89 h 2 m -2,-6.45 h 2 m -2,-6.45 h 2 m -2,277.3 h 2"
+         id="path3523" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1"
+         inkscape:connector-curvature="0"
+         d="m 319.00016,341.00003 v 2 m 9.2,-2 v 2 m 9.2,-2 v 2 m 9.3,-2 v 2 m 18.4,-2 v 2 m 9.3,-2 v 2 m 9.2,-2 v 2 m 9.2,-2 v 2 m 18.5,-2 v 2 m 9.2,-2 v 2 m 9.3,-2 v 2 m 9.2,-2 v 2 m 18.5,-2 v 2 m 9.2,-2 v 2 m 9.2,-2 v 2 m 9.3,-2 v 2 m 18.4,-2 v 2 m 9.3,-2 v 2 m 9.2,-2 v 2 m 9.2,-2 v 2 m -230.8,-2 v 2 m -9.2,-2 v 2 m -9.3,-2 v 2 m -9.2,-2 v 2 m -18.5,-2 v 2 m -9.2,-2 v 2 m -9.2,-2 v 2 m -9.3,-2 v 2 m -18.4,-2 v 2 m -9.3,-2 v 2 m -9.2,-2 v 2 m -9.2,-2 v 2 m -18.5,-2 v 2 m -9.3,-2 v 2 m -9.2,-2 v 2 m -9.2,-2 v 2 m -18.5,-2 v 2 m -9.2,-2 v 2 m -9.249999,-2 v 2 m -9.24,-2 v 2"
+         id="path3526" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         d="m 78.700161,341.00003 h 5 m -5,-32.2 h 5 m -5,-32.3 h 5 m -5,-32.2 h 5 m -5,-32.3 h 5 m -5,-32.2 h 5 m -5,-32.3 h 5 m -5,-32.2 h 5 m -5,-32.25 h 5 m -5,257.95 h 5"
+         id="path3529" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:2"
+         inkscape:connector-curvature="0"
+         d="m 309.70016,341.00003 v 5 m 46.2,-5 v 5 m 46.2,-5 v 5 m 46.1,-5 v 5 m 46.2,-5 v 5 m -184.7,-5 v 5 m -46.1,-5 v 5 m -46.2,-5 v 5 m -46.2,-5 v 5 m -46.2,-5 v 5"
+         id="path3532" />
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="309.70016"
+         y="361.60004"
+         font-size="12"
+         id="text3535">0</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="355.90015"
+         y="361.60004"
+         font-size="12"
+         id="text3537">1</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="402.10016"
+         y="361.60004"
+         font-size="12"
+         id="text3539">2</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="448.20016"
+         y="361.60004"
+         font-size="12"
+         id="text3541">3</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="494.40015"
+         y="361.60004"
+         font-size="12"
+         id="text3543">4</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="309.70016"
+         y="361.60004"
+         font-size="12"
+         id="text3545">0</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="263.60016"
+         y="361.60004"
+         font-size="12"
+         id="text3547">-1</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="217.40016"
+         y="361.60004"
+         font-size="12"
+         id="text3549">-2</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="171.20016"
+         y="361.60004"
+         font-size="12"
+         id="text3551">-3</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:middle"
+         x="125.00016"
+         y="361.60004"
+         font-size="12"
+         id="text3553">-4</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="343.40002"
+         font-size="12"
+         id="text3556">0</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="311.20004"
+         font-size="12"
+         id="text3558">0.1</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="278.90002"
+         font-size="12"
+         id="text3560">0.2</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="246.70003"
+         font-size="12"
+         id="text3562">0.3</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="214.40002"
+         font-size="12"
+         id="text3564">0.4</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="182.20003"
+         font-size="12"
+         id="text3566">0.5</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="149.90002"
+         font-size="12"
+         id="text3568">0.6</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="117.70003"
+         font-size="12"
+         id="text3570">0.7</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="85.450027"
+         font-size="12"
+         id="text3572">0.8</text>
+      <text
+         style="font-size:12px;font-family:Verdana;text-anchor:end"
+         x="72.700157"
+         y="343.40002"
+         font-size="12"
+         id="text3574">0</text>
+      <text
+         style="font-size:14px;font-family:Verdana;text-anchor:middle"
+         x="-199.50003"
+         y="42.40015"
+         transform="rotate(-90)"
+         font-size="14"
+         id="text3577">ალბათობა</text>
+      <text
+         style="font-size:14px;font-family:Verdana;text-anchor:middle"
+         x="309.70016"
+         y="376.70004"
+         font-size="14"
+         id="text3580">შემთხვევითი სიდიდე</text>
+      <rect
+         style="fill:#ffffff;stroke:#778899;stroke-width:1"
+         x="549.7002"
+         y="58.000015"
+         width="173.8"
+         height="165"
+         id="rect3605" />
+      <rect
+         style="fill:#ffffff;stroke:#778899;stroke-width:1"
+         x="549.7002"
+         y="58.000015"
+         width="173.8"
+         height="165"
+         id="rect3607" />
+      <line
+         style="fill:#ffffff;stroke:#7fff00;stroke-width:1"
+         id="line3626"
+         y2="106.17281"
+         x2="579.7002"
+         y1="106.17281"
+         x1="564.7002" />
+      <text
+         style="font-size:15px;font-family:Verdana"
+         x="587.2002"
+         y="78.61998"
+         font-size="15"
+         id="text3637">μ<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7160">1</tspan>
+ = 0</text>
+      <text
+         style="font-size:15px;font-family:Verdana"
+         x="587.2002"
+         y="110.13521"
+         font-size="15"
+         id="text3639">μ<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7162">2</tspan>
+ = 1</text>
+      <text
+         style="font-size:20px;font-family:Verdana;text-anchor:middle"
+         x="374.50015"
+         y="40.000015"
+         font-size="20"
+         id="text3642">ალბათური განაწილების ფუნქცია</text>
+      <line
+         id="line7129"
+         y2="340.19086"
+         x2="309.70016"
+         y1="85.525887"
+         x1="309.70016"
+         style="stroke:#000000;stroke-width:1.60001373;stroke-miterlimit:4;stroke-dasharray:9.60008195, 9.60008195;stroke-dashoffset:0" />
+      <text
+         style="font-size:15px;font-family:Verdana"
+         x="662.37531"
+         y="138.80809"
+         font-size="15"
+         id="text3639-1">σ<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7150">1</tspan>
+ &lt; σ<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7148">2</tspan>
+</text>
+      <text
+         id="text7154"
+         font-size="15"
+         y="78.61998"
+         x="662.37531"
+         style="font-size:15px;font-family:Verdana">σ = 0.5</text>
+      <text
+         id="text7156"
+         font-size="15"
+         y="110.13521"
+         x="662.37531"
+         style="font-size:15px;font-family:Verdana">σ = 1</text>
+      <text
+         id="text7158"
+         font-size="15"
+         y="139.3867"
+         x="586.99567"
+         style="font-size:15px;font-family:Verdana">μ<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7164">1</tspan>
+ &lt; μ<tspan
+   style="font-size:64.99999762%;baseline-shift:sub"
+   id="tspan7166">2</tspan>
+</text>
+      <g
+         style="stroke:#8b0000;stroke-width:1"
+         clip-path="url(#plot_window-3)"
+         id="g3589"
+         transform="translate(-0.49984001,-0.09997)">
+        <path
+           style="fill:none"
+           inkscape:connector-curvature="0"
+           d="m 84.2,341 h 2.26 2.26 2.26 2.26 2.26 2.26 2.24 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.3 2.2 2.3 2.2 l 2.3,-0.1 h 2.3 2.2 l 2.3,-0.1 2.2,-0.1 2.3,-0.1 2.3,-0.1 2.2,-0.2 2.3,-0.3 2.2,-0.4 2.3,-0.5 2.3,-0.7 2.2,-0.8 2.3,-1.2 2.2,-1.4 2.3,-1.8 2.3,-2.3 2.2,-2.8 2.3,-3.4 2.2,-4.1 2.3,-4.9 2.3,-5.8 2.2,-6.7 2.3,-7.8 2.2,-8.8 2.3,-10 2.3,-11 2.2,-12.1 2.3,-13 2.2,-13.9 2.3,-14.6 2.3,-15 2.2,-15.3 2.3,-15.2 2.2,-14.8 2.3,-14.1 2.3,-13.1 2.2,-11.7 2.3,-10.1 2.2,-8.1 2.3,-5.98 2.3,-3.66 2.2,-1.23 2.3,1.22 2.2,3.66 2.3,5.97 2.3,8.12 2.2,10.1 2.3,11.7 2.2,13.1 2.3,14.1 2.3,14.8 2.2,15.2 2.3,15.2 2.2,15.1 2.3,14.5 2.3,13.9 2.2,13.1 2.3,12.1 2.2,11 2.3,9.9 2.3,8.9 2.2,7.8 2.3,6.7 2.2,5.8 2.3,4.9 2.3,4.1 2.2,3.4 2.3,2.8 2.2,2.3 2.3,1.8 2.3,1.4 2.2,1.2 2.3,0.8 2.2,0.7 2.3,0.5 2.3,0.4 2.2,0.3 2.3,0.2 2.2,0.1 2.3,0.1 2.3,0.1 2.2,0.1 h 2.3 2.2 l 2.3,0.1 h 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2"
+           id="path3587" />
+      </g>
+      <path
+         id="path3599"
+         d="m 81.700161,341.00003 h 2.26 2.26 2.26 2.26 2.26 2.26 2.24 2.29999 2.199999 2.3 2.3 2.20001 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 2.3 2.3 2.2 2.3 2.2 l 2.3,-0.1 h 2.3 2.2 2.3 2.2 2.29999 l 2.3,-0.1 h 2.2 2.3 l 2.2,-0.1 h 2.3 l 2.3,-0.1 2.2,-0.1 2.3,-0.1 2.3,-0.1 2.2,-0.1 2.3,-0.1 2.2,-0.1 2.3,-0.2 2.3,-0.2 2.2,-0.2 2.3,-0.3 2.2,-0.3 2.3,-0.3 2.3,-0.3 2.2,-0.4 2.3,-0.5 2.2,-0.5 2.3,-0.6 2.3,-0.6 2.2,-0.7 2.3,-0.8 2.2,-0.8 2.3,-1 2.3,-1 2.2,-1.1 2.3,-1.3 2.2,-1.3 2.3,-1.5 2.3,-1.6 2.2,-1.6 2.3,-1.9 2.2,-1.9 2.3,-2.1 2.3,-2.2 2.2,-2.4 2.3,-2.5 2.2,-2.6 2.3,-2.8 2.3,-2.9 2.2,-3 2.3,-3.2 2.2,-3.2 2.3,-3.4 2.3,-3.5 2.2,-3.6 2.3,-3.6 2.2,-3.7 2.3,-3.8 2.3,-3.8 2.2,-3.8 2.3,-3.8 2.2,-3.8 2.3,-3.8 2.3,-3.7 2.2,-3.6 2.3,-3.5 2.2,-3.4 2.3,-3.3 2.3,-3.1 2.2,-2.9 2.3,-2.7 2.2,-2.5 2.3,-2.3 2.3,-2 2.2,-1.8 2.3,-1.4 2.2,-1.2 2.3,-0.9 2.3,-0.6 2.2,-0.3 h 2.3 l 2.2,0.3 2.3,0.7 2.3,0.9 2.2,1.2 2.3,1.6 2.2,1.8 2.3,2 2.3,2.3 2.2,2.5 2.3,2.8 2.2,2.9 2.3,3.2 2.30001,3.2 2.2,3.5 2.3,3.5 2.2,3.6 2.3,3.7 2.3,3.8 2.2,3.8 2.3,3.8 2.2,3.8 2.3,3.8 2.3,3.8 2.2,3.7 2.3,3.6 2.2,3.6 2.3,3.5 2.3,3.3 2.2,3.3 2.3,3.1 2.3,3 2.2,2.9 2.3,2.8 2.2,2.6 2.3,2.5 2.3,2.3 2.2,2.2 2.3,2.1 2.2,1.9 2.3,1.8 2.3,1.7 2.2,1.5 2.3,1.5 2.2,1.3 2.3,1.2 2.3,1.1 2.2,1.1 2.3,0.9 2.2,0.8 2.3,0.8 2.3,0.7 2.2,0.6 2.3,0.6 2.2,0.5 2.3,0.4 2.3,0.4 2.2,0.4 2.3,0.3 2.2,0.3 2.3,0.2 2.3,0.2 2.2,0.2 2.3,0.2 2.2,0.1 2.3,0.2 2.3,0.1 2.2,0.1 h 2.3 l 2.2,0.1 2.3,0.1 h 2.3 l 2.2,0.1 h 2.3 2.2 l 2.3,0.1 h 2.3 2.2 2.3 2.2"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#7fff00;stroke-width:1" />
+      <line
+         style="stroke:#000000;stroke-width:1.13385832;stroke-miterlimit:4;stroke-dasharray:6.8031497, 6.8031497;stroke-dashoffset:0"
+         x1="353.52405"
+         y1="213.10919"
+         x2="353.52405"
+         y2="341.00003"
+         id="line7131" />
+      <g
+         style="fill:#ffffff;stroke:#8b0000;stroke-width:1"
+         id="g3616"
+         transform="translate(-0.94318999,-43.532744)">
+        <line
+           x1="565.20001"
+           y1="118"
+           x2="580.20001"
+           y2="118"
+           id="line3614" />
+      </g>
+    </g>
+  </g>
+</svg>
